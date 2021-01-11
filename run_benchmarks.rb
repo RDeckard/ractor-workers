@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# j'ai perdu.
 
 require_relative './lib/tasks/tasks'
 require_relative './lib/workers/workers'
